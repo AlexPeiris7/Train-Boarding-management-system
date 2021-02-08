@@ -1,7 +1,0 @@
-Average time to check tickets : NaNs
-Average stay time in queue : NaNs
-Maximum lenght of the queue :0
-Minimum waiting time to check ticket: 18s
-Maximum waiting time to check ticket: 0s
-Minimum waiting time in queue(first passenger in queue): 18s
-Maximum waiting time in queue(last passenger in queue): 0.0s
